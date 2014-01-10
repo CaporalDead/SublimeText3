@@ -1,0 +1,52 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"draw_white_space": "none",
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".project",
+		".buildpath",
+		".gitignore",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		".buildpath"
+	],
+	"find_selected_text": true,
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".settings",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site",
+		".idea"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"theme": "Centurion.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": true
+}

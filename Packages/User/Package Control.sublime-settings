@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AndyPHP",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Doctrine Snippets",
+		"Drupal",
+		"Emmet",
+		"Laravel 4 Artisan",
+		"Local History",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"SFTP",
+		"SideBarEnhancements",
+		"subDrush",
+		"SVN",
+		"Theme - Centurion"
+	]
+}
